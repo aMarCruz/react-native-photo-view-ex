@@ -10,7 +10,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-import javax.annotation.Nonnull;
+import androidx.annotation.Nonnull;
 
 /**
  * @author alwx (https://github.com/alwx)
